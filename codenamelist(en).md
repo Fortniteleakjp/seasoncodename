@@ -1,36 +1,32 @@
-**English version**
+# _Chapter 6_
 
-# firepetal = chapter 6
+firepetal = Chapter6_Season1
 
-# Clyde = Season REMIX
+# _Chapter 5_
 
-_Chapter 5_.
+Clyde = Season_REMIX
+flexlegend = Chapter5_Season4
+moonflex  = Chapter5_Season3
+sunrose = Chapter5_Season2
+paprika = Chapter5_Season1
 
-flexlegend = Chapter 5 Season 4
-moonflex = Chapter 5 Season 3
-sunrose = Chapter 5 Season 2
-paprika = Chapter 5 Season 1
+# _Chapter 4_
 
-# Rufus = Fortnite OF
+Rufus = Fortnite_OF
+hopscotch()  = Chapter4_Season4
+Chrono =  Chapter4_Season3
+MidMatch(Radical) = Chapter4_Season2
+Muster  = Chapter4_Season1
 
-chapter4_ # hopscotch() = chapter5season4_
+# _Chapter 3_
 
-hopscotch() = chapter 4 season 4
-Chrono = Chapter 4 Season 3
-MidMatch(Radical) = Chapter 4 Season 2
-Muster = Chapter 4 Season 1
+chrome(Distorted) = Chapter3_Season4
+Daisy = Chapter3_Season3
+Resolve  = Chapter3_Season2
+Flipper = Chapter3_Season1
 
-_Chapter 3_.
+# _Chapter 2_
 
-chrome(Distorted) = Chapter 3 Season 4
-Daisy = Chapter 3 Season 3
-Resolve = Chapter 3 Season 2
-Flipper = Chapter 3 season 1
-
-Chapter2_ chrome(Distorted) = Chapter2 Season8
-
-Corruption = Chapter 2 Season 8
-MotherGameplay = Chapter 2 season 7
-PrimalGameplay = Chapter 2 Season 6
-
-Translated with DeepL.com (free version)
+Corruption = Chapter2_Season8
+MotherGameplay = Chapter2_Season7
+PrimalGameplay = Chapter2_Season6
