@@ -16,7 +16,7 @@ paprika = Chapter5_Season1
 
 # _Chapter 4_
 
-Rufus = Fortnite_OF
+Rufus = Fortnite_OG
 
 hopscotch()  = Chapter4_Season4
 
