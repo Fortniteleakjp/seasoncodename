@@ -1,5 +1,7 @@
 # _Chapter 6_
 
+CherrySmoke = Chapter6_Season3
+
 VividRazor = Chapter6_Season2
 
 firepetal = Chapter6_Season1
