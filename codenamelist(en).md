@@ -1,5 +1,7 @@
 # _Chapter 6_
 
+TidalCrane = Chapter 6 Season 4
+
 CherrySmoke = Chapter6_Season3
 
 VividRazor = Chapter6_Season2
