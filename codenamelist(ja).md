@@ -2,6 +2,8 @@
 
 # _チャプター6_
 
+TidalCrane = チャプター6シーズン4
+
 CherrySmoke = チャプター6シーズン3
 
 = チャプター6ミニシーズン1
@@ -51,3 +53,4 @@ Corruption = チャプター2シーズン8
 MotherGameplay = チャプター2シーズン7
 
 PrimalGameplay = チャプター2シーズン6
+
