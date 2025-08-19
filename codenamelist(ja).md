@@ -32,7 +32,7 @@ hopscotch()  = チャプター4シーズン4
 
 Chrono =  チャプター4シーズン3
 
-MidMatch(Radical) = チャプター4シーズン2
+Radical = チャプター4シーズン2
 
 Muster  = チャプター4シーズン1
 
@@ -53,4 +53,5 @@ Corruption = チャプター2シーズン8
 MotherGameplay = チャプター2シーズン7
 
 PrimalGameplay = チャプター2シーズン6
+
 
