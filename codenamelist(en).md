@@ -4,6 +4,8 @@ TidalCrane = Chapter 6 Season 4
 
 CherrySmoke = Chapter6_Season3
 
+Jethro = Chapter6_Mini season1
+
 VividRazor = Chapter6_Season2
 
 firepetal = Chapter6_Season1
