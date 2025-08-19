@@ -28,7 +28,7 @@ hopscotch()  = Chapter4_Season4
 
 Chrono =  Chapter4_Season3
 
-MidMatch(Radical) = Chapter4_Season2
+Radical = Chapter4_Season2
 
 Muster  = Chapter4_Season1
 
