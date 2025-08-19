@@ -6,7 +6,7 @@ TidalCrane = チャプター6シーズン4
 
 CherrySmoke = チャプター6シーズン3
 
-= チャプター6ミニシーズン1
+Jethro = チャプター6ミニシーズン1
 
 VividRazor = チャプター6シーズン2
 
@@ -38,7 +38,7 @@ Muster  = チャプター4シーズン1
 
 # _チャプター3_
 
-chrome(Distorted) = チャプター3シーズン4
+Distorted(chrome) = チャプター3シーズン4
 
 Daisy = チャプター3シーズン3
 
@@ -53,5 +53,6 @@ Corruption = チャプター2シーズン8
 MotherGameplay = チャプター2シーズン7
 
 PrimalGameplay = チャプター2シーズン6
+
 
 
