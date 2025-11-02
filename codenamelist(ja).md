@@ -1,6 +1,11 @@
 ﻿**日本語版**
 
+# _チャプター7
+
+
 # _チャプター6_
+
+WildEstate = チャプター6ミニシーズン2
 
 TidalCrane = チャプター6シーズン4
 
@@ -53,6 +58,7 @@ Corruption = チャプター2シーズン8
 MotherGameplay = チャプター2シーズン7
 
 PrimalGameplay = チャプター2シーズン6
+
 
 
 
