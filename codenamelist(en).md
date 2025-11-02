@@ -1,4 +1,8 @@
+# _Chapter 7_
+
 # _Chapter 6_
+
+WildEstate  = Chapter6_Mini season2
 
 TidalCrane = Chapter 6 Season 4
 
