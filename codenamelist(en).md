@@ -1,5 +1,7 @@
 # _Chapter 7_
 
+GoliathBurst = Chapter7_Season1
+
 # _Chapter 6_
 
 WildEstate  = Chapter6_Mini season2
