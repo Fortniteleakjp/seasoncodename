@@ -2,6 +2,7 @@
 
 # _チャプター7_
 
+GoliathBurst = チャプター7シーズン1
 
 # _チャプター6_
 
@@ -33,7 +34,7 @@ paprika  = チャプター5シーズン1
 
 Rufus = フォートナイトOG
 
-hopscotch()  = チャプター4シーズン4
+hopscotch  = チャプター4シーズン4
 
 Chrono =  チャプター4シーズン3
 
@@ -58,6 +59,7 @@ Corruption = チャプター2シーズン8
 MotherGameplay = チャプター2シーズン7
 
 PrimalGameplay = チャプター2シーズン6
+
 
 
 
