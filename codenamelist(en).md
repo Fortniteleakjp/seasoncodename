@@ -1,4 +1,4 @@
-# _Chapter 7_
+# _Chapter 7_ - Hera_Map
 
 GoliathBurst = Chapter7_Season1
 
