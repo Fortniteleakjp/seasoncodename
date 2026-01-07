@@ -1,6 +1,6 @@
 ﻿**日本語版**
 
-# _チャプター7_
+# _チャプター7_ - Hera_Map
 
 GoliathBurst = チャプター7シーズン1
 
@@ -59,6 +59,7 @@ Corruption = チャプター2シーズン8
 MotherGameplay = チャプター2シーズン7
 
 PrimalGameplay = チャプター2シーズン6
+
 
 
 
