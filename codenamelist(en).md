@@ -1,5 +1,7 @@
 # _Chapter 7_ - Hera_Map
 
+TeaCake = Chapter7_Season2
+
 GoliathBurst = Chapter7_Season1
 
 # _Chapter 6_
