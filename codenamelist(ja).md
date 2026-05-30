@@ -2,6 +2,8 @@
 
 # _チャプター7_ - Hera_Map
 
+TeaCake = チャプター7シーズン2
+
 GoliathBurst = チャプター7シーズン1
 
 # _チャプター6_
